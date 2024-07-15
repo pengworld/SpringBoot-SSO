@@ -6,7 +6,9 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="SpringBoot-SSO" />
+        <module name="sso-app-a" />
+        <module name="sso-app-b" />
+        <module name="sso-application" />
       </profile>
     </annotationProcessing>
   </component>
